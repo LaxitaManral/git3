@@ -1,6 +1,8 @@
 #!/bin/bash
 #creating a user 
-
+<< hi
+hi i have added hi comment in c1.sh file 
+hi
 << help
 username="iti"
 password="test@123"
